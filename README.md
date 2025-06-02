@@ -1,0 +1,15 @@
+This work is done as part of advanced big data and data mining UC course Lab-1.
+The work mainly focused on data preprocessing and cleaning for further analysis or model training.
+Daily weather data of different cities obtained from Kaggle is used to practice different data processing thecniques
+like data cleaning, sampling and reduction, statistical analysis, and data visualization.
+Data analysis is done on average temperature and percipitation data.
+Summer and Winter temprature data is analyzed. And some visualizations are done.
+Key challenges faced during the lab was data cleaning and vriablity over time.
+
+
+
+
+
+
+
+
